@@ -4,13 +4,13 @@
       "id": 1,
       "name": "Woody",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 8
+      "likes": 21
     },
     {
       "id": 2,
       "name": "Buzz Lightyear",
       "image": "http://www.pngmart.com/files/6/Buzz-Lightyear-PNG-Transparent-Picture.png",
-      "likes": 14
+      "likes": 32
     },
     {
       "id": 3,
@@ -37,16 +37,22 @@
       "likes": 2
     },
     {
-      "id": 7,
-      "name": "Hamm",
-      "image": "https://cdn140.picsart.com/244090226021212.png?r1024x1024",
-      "likes": 0
+      "name": "Cat",
+      "image": "https://www.scarymommy.com/wp-content/uploads/2019/09/GettyImages-146582583-min-1.jpg",
+      "likes": 4,
+      "id": 7
     },
     {
-      "id": 8,
-      "name": "Little Green Men",
-      "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
-      "likes": -2
+      "name": "Bob",
+      "image": "https://www.rd.com/wp-content/uploads/2021/04/GettyImages-988013222-scaled-e1618857975729.jpg",
+      "likes": 0,
+      "id": 8
+    },
+    {
+      "name": "cutie ",
+      "image": "https://images.unsplash.com/photo-1615789591457-74a63395c990?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8ZG9tZXN0aWMlMjBjYXR8ZW58MHx8MHx8&ixlib=rb-1.2.1&w=1000&q=80",
+      "likes": 0,
+      "id": 9
     }
   ]
 }
